@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KARMVIR-1
 - 👀 I’m interested in ... CYBERSECURITY AND WEB DEVELOPMENT
 - 🌱 I’m currently learning ...MYSQL,PHP,PYTHON,CN
-- 💞️ I’m looking to collaborate on ...MACHINE LEARNING
 - 📫 How to reach me ...@UNCODEKUNAL ON IG
 
 <!---
