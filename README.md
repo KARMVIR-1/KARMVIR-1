@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KARMVIR-1
 - 👀 I’m interested in ... CYBERSECURITY AND WEB DEVELOPMENT
 - 🌱 I’m currently learning ...MYSQL,PHP,PYTHON,CN
-- 📫 How to reach me ...@UNCODEKUNAL ON IG
+- 📫 How to reach me ...
 
 <!---
 KARMVIR-1/KARMVIR-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
