@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KARMVIR-1
 - 👀 I’m interested in ...  DATA SCIENCE ,CYBERSECURITY AND WEB AND APP DEVELOPMENT
-- I have complete - HTML , CSS BASICS , JAVA SCRIPT , PHP , C++ , JAVA , SQL , CN , PYTHON  , DATA SCIENCE .
-- 🌱 I’m currently learning .... APP DEV , ML , AI and DevOps .
+- I have completed - HTML , CSS BASICS , JAVA SCRIPT , PHP , C++ , JAVA , SQL , CN , PYTHON  , DATA SCIENCE ML , AI and DevOps  .
+- 🌱 I’m currently learning .... CyberSecurity Through Google CyberSecurity Professinal Certificate .
 - 
 
 <!---
